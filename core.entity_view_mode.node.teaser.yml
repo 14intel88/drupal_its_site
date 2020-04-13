@@ -1,0 +1,12 @@
+uuid: 772d49a2-bd7b-436e-ba38-6bb8b7338a4a
+langcode: uk
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: Mz9qWr1kUYK0mjRAGDsr5XS6PvtZ24en_7ndt-pyWe4
+id: node.teaser
+label: Анонс
+targetEntityType: node
+cache: true
