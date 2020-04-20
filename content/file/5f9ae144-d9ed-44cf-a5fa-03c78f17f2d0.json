@@ -1,0 +1,82 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/inline-images\/Globa_LS.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "5f9ae144-d9ed-44cf-a5fa-03c78f17f2d0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "uk"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "309373d7-bbdc-4043-ad0f-45d9a3b98abf"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "Globa_LS.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/Globa_LS.jpg",
+            "url": "\/sites\/default\/files\/inline-images\/Globa_LS.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 3105
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-20T14:51:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-20T14:51:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

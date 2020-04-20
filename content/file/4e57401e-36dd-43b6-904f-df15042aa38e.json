@@ -1,0 +1,82 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/inline-images\/Dresden_TU_0.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "4e57401e-36dd-43b6-904f-df15042aa38e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "uk"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "309373d7-bbdc-4043-ad0f-45d9a3b98abf"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "Dresden_TU_0.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/Dresden_TU_0.jpg",
+            "url": "\/sites\/default\/files\/inline-images\/Dresden_TU_0.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 13537
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-20T18:36:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-20T18:40:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

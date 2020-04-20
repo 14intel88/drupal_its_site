@@ -1,0 +1,12 @@
+uuid: e7538a62-356d-4cb2-ae7d-b3e290def4ba
+langcode: uk
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: fVFfJv_GzBRE-wpRHbfD5a3VjnhbEOXG6lvRd3uaccY
+id: node.search_index
+label: 'Пошуковий індекс'
+targetEntityType: node
+cache: true

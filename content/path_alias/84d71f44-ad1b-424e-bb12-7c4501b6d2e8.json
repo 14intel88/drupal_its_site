@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "84d71f44-ad1b-424e-bb12-7c4501b6d2e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "uk"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

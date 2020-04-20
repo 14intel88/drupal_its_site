@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/structure\/menu\/item\/7\/edit?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/menu_link_content\/menu_link_content"
+        }
+    },
+    "uuid": [
+        {
+            "value": "5b89a04d-4ad3-49e9-8f8c-894dd2f2e44d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "uk",
+            "lang": "uk"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-04-20T10:19:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "\u041d\u0430\u0448\u0456 \u0432\u0438\u043f\u0443\u0441\u043a\u043d\u0438\u043a\u0438",
+            "lang": "uk"
+        }
+    ],
+    "menu_name": [
+        {
+            "value": "main"
+        }
+    ],
+    "link": [
+        {
+            "uri": "entity:node\/5",
+            "title": null,
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": false
+        }
+    ],
+    "weight": [
+        {
+            "value": 12
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-20T10:19:48+00:00",
+            "lang": "uk",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "uk"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "uk"
+        }
+    ]
+}
